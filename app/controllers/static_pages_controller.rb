@@ -4,4 +4,10 @@ class StaticPagesController < ApplicationController
         @nome = "Victor"
     end
 
+    def sobre
+    end
+
+    def contato
+    end
+
 end
